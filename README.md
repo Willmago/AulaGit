@@ -13,3 +13,5 @@ Tem um pessoalzinho aqui
 git add git commit
 
 git status git diff
+
+git remote
